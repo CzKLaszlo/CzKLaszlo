@@ -1,5 +1,5 @@
 - 🙏 Hi, I’m @CzKLaszlo
 - 🧐 I’m interested in building stylish apps. 
 - 🌱 I’m currently learning how to work with API-s.
-- 💖 I’m looking to for a front-end developer job.
+- 💖 I’m looking to for a junior front-end developer job.
 - 📫 How to reach me? Contact me on social media at Facebook or write me an e-mail.
