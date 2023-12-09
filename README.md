@@ -1,5 +1,8 @@
 
-<h2 align="left">Hi 🫡! My name is Cziprián-Kovács László and I'm a front-end developer from Romania.</h2>
+<p align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com/?lines=My+name+is+Czipri%C3%A1n-Kov%C3%A1cs+L%C3%A1szl%C3%B3;I'm+a+front-end+developer+from+Romania.&Fira+Code&size=40&pause=1500&color=0CF7C5&background=6D6A6B00&center=true&random=false&width=850&height=100"/></a>
+</p>
+
 
 ###
 
@@ -30,9 +33,17 @@
 
 ###
 
-
 <a href="https://linkedin.com/in/www.linkedin.com/in/lászló-cziprián-kovács-100a181bb" target="blank"><img align="center" src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" alt="www.linkedin.com/in/lászló-cziprián-kovács-100a181bb" height="35"  /></a>
 <a href="https://www.youtube.com/c/@laszlocziprian-kovacs5230" target="blank"><img align="center" src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" alt="@laszlocziprian-kovacs5230" height="35" /></a>
 <a href="cziprian.k.laszlo@gmail.com" target="blank"><img align="center" src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" alt="www.linkedin.com/in/lászló-cziprián-kovács-100a181bb" height="35"  />
 
+###
 
+<br/>
+<hr/>
+<div align="center">
+<h2> My contributions </h2>
+
+<img alt="snake eating GitHub Contributions" src="https://raw.githubusercontent.com/CzKLaszlo/CzKLaszlo/output/github-contribution-grid-snake.svg"/>
+
+<div/>
